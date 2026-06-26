@@ -1,4 +1,6 @@
-个人网站 https://laozhupeiqi.xyz
+个人网站: https://laozhupeiqi.xyz
+CSDN: https://blog.csdn.net/2301_7615679
+bilibili: https://space.bilibili.com/345754948 
 
 <!--
 **laozhupeiqia/laozhupeiqia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
